@@ -1,0 +1,4 @@
+#Fri Dec 04 22:14:16 EET 2020
+base.0=F\:\\IT-Smart\\Upcloud-Technology\\upcload_technology\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
